@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-done
-=======
-also modified
->>>>>>> br_fix_01
+info: File B
