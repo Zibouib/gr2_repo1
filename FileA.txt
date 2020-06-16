@@ -1,4 +1,7 @@
 info: File A
 add feature 1
+<<<<<<< HEAD
 add feature 1
 
+=======
+>>>>>>> br_feature1
